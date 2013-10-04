@@ -25,7 +25,7 @@
 #include <QString>
 #include <QVector>
 
-#include <QJson/Parser>
+#include <qjson/parser.h>
 
 #include "bed_renderable.h"
 #include "block_geometry.h"

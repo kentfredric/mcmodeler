@@ -19,7 +19,7 @@
 #include <QDesktopServices>
 #include <QDir>
 
-#include <QJson/Parser>
+#include <qjson/parser.h>
 
 #include <quazip/quazip.h>
 #include <quazip/quazipfile.h>

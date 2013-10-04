@@ -114,6 +114,8 @@ SOURCES = \
 
 QT += opengl
 
+LIBS += -lqjson -lquazip
+
 RESOURCES += \
     textures.qrc \
     icons.qrc
